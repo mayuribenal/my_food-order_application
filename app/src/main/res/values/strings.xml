@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Food Order Application</string>
+    <string name="orderprice">orderprice</string>
+    <string name="imageview">imageview</string>
+    <string name="name">name</string>
+    <string name="price">price</string>
+    <string name="description">description</string>
+    <string name="string_orderprice">$</string>
+    <string name="string_name_name">Name</string>
+    <string name="pricee">$</string>
+    <string name="price1">Price</string>
+    <string name="descriptionn">Description</string>
+    <string name="foodname">FoodName</string>
+    <string name="your_name">your_name</string>
+    <string name="phone">phone</string>
+    <string name="amount">$</string>
+    <string name="_1">1</string>
+    <string name="_6">6</string>
+    <string name="todo11">TODO</string>
+    <string name="todo12">TODO</string>
+    <string name="my_orders">My Orders</string>
+    <string name="welcome_to_food_ordering_app">Welcome to Food Ordering App</string>
+</resources>
